@@ -7,3 +7,6 @@ The platform leveraged smart contracts to automatically distribute funds to the 
 
 
 ![crowdfund](https://user-images.githubusercontent.com/106914483/216236620-5ee1f650-e87c-4b3a-9c89-ed6deefd9791.png)
+
+
+![crowdfund2](https://user-images.githubusercontent.com/106914483/216236696-902ccf1f-b40f-4a65-938f-486ef2823eb4.png)
